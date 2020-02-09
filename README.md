@@ -1,3 +1,8 @@
 # learning-python
 
-A repository for learning and practicing Python.
+This repository contains python implementation of fundamental programming concepts and algorithms. 
+
+* Binary Tree Traversal
+  - Recursive
+  - Iterative
+ 
